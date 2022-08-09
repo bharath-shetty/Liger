@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    text-align: center;
+    color: blueviolet;
+    font-style: italic;
+}
+.img{
+    text-align: center;
+}
+img{
+    height: 300px;
+    width: 500px;
+
+}
+h2{
+    color: red;
+    font-style: oblique;
+}
